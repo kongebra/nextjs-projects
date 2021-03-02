@@ -1,15 +1,13 @@
 {
 	"name": "freelancer",
 	"version": "1.0.0",
-	"description": "",
-	"main": "index.js",
+	"private": true,
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
 		"start": "next start"
 	},
-	"keywords": [],
-	"author": "",
+	"author": "Svein Are Danielsen",
 	"license": "ISC",
 	"dependencies": {
 		"next": "^10.0.7",
